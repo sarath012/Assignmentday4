@@ -28,7 +28,7 @@ function App() {
       <appContext.Provider value={{counter, setCounter}}>
         <Parent />
       </appContext.Provider>
-    </div>
+    </div> 
   );
 }
 
